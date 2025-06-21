@@ -12,9 +12,9 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@yarnpkg/core": "workspace:^",
+    "@yarnpkg/core": "4.1.6",
     "@yarnpkg/fslib": "workspace:^",
-    "@yarnpkg/nm": "workspace:^",
+    "@yarnpkg/nm": "4.0.0",
     "clipanion": "^4.0.0-rc.2",
     "tslib": "^2.4.0"
   },
