@@ -17,7 +17,7 @@
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/libzip": "workspace:^",
     "@yarnpkg/parsers": "workspace:^",
-    "@yarnpkg/shell": "workspace:^",
+    "@yarnpkg/shell": "4.1.1",
     "camelcase": "^5.3.1",
     "chalk": "^3.0.0",
     "ci-info": "^4.0.0",
