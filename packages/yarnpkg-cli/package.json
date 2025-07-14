@@ -9,12 +9,12 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@yarnpkg/core": "workspace:^",
+    "@yarnpkg/core": "4.1.6",
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/libzip": "workspace:^",
     "@yarnpkg/parsers": "workspace:^",
     "@yarnpkg/plugin-compat": "workspace:^",
-    "@yarnpkg/plugin-constraints": "workspace:^",
+    "@yarnpkg/plugin-constraints": "2.1.0",
     "@yarnpkg/plugin-dlx": "workspace:^",
     "@yarnpkg/plugin-essentials": "workspace:^",
     "@yarnpkg/plugin-exec": "workspace:^",
