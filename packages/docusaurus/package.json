@@ -20,7 +20,7 @@
     "@mdx-js/react": "^3.0.0",
     "@monaco-editor/react": "^4.4.6",
     "@primer/octicons-react": "^17.7.0",
-    "@yarnpkg/builder": "workspace:^",
+    "@yarnpkg/builder": "2.1.0",
     "@yarnpkg/cli": "workspace:^",
     "@yarnpkg/core": "workspace:^",
     "@yarnpkg/fslib": "workspace:^",
