@@ -9,10 +9,10 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@yarnpkg/core": "workspace:^",
+    "@yarnpkg/core": "2.1.0",
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/libzip": "workspace:^",
-    "@yarnpkg/parsers": "workspace:^",
+    "@yarnpkg/parsers": "2.1.0",
     "@yarnpkg/plugin-compat": "workspace:^",
     "@yarnpkg/plugin-constraints": "workspace:^",
     "@yarnpkg/plugin-dlx": "workspace:^",
