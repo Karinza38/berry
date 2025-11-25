@@ -13,7 +13,7 @@
   "dependencies": {
     "@yarnpkg/core": "workspace:^",
     "@yarnpkg/fslib": "workspace:^",
-    "@yarnpkg/parsers": "workspace:^",
+    "@yarnpkg/parsers": "2.1.0",
     "chalk": "^3.0.0",
     "clipanion": "^4.0.0-rc.2",
     "comment-json": "^2.2.0",
