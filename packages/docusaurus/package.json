@@ -13,7 +13,7 @@
     "@docusaurus/core": "^3.4.0",
     "@docusaurus/mdx-loader": "^3.4.0",
     "@docusaurus/plugin-content-docs": "^3.4.0",
-    "@docusaurus/preset-classic": "^3.4.0",
+    "@docusaurus/preset-classic": "^3.5.0",
     "@docusaurus/theme-classic": "^3.4.0",
     "@docusaurus/theme-common": "^3.4.0",
     "@fontsource/pt-sans": "^5.0.5",
